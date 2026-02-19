@@ -1,4 +1,4 @@
-# FP&A Finance Dataset (SQL → Tableau)
+# FP&A Finance Dataset
 
 This repo contains a mini FP&A-style dataset built in PostgreSQL using modular SQL scripts.
 The output is a BI-ready table suitable for Tableau reporting.
