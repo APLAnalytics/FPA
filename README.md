@@ -26,3 +26,7 @@ The final dataset includes:
 - favourable variance (cost + revenue standardised)
 - vs-budget percentages
 - boolean flags (current month / latest month in data)
+
+## Tableau dashboard
+- Report link below:
+- https://public.tableau.com/views/Financeproject_17714374725590/Summary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
